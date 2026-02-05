@@ -1,4 +1,5 @@
 import json
+import os
 
 articles = json.load(open("articles.json")) if os.path.exists("articles.json") else []
 
