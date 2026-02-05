@@ -1,0 +1,38 @@
+name: BBC_Blog_Automatico
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python scraper.py || true
+        timeout-minutes: 10
+
+      - run: python generate_site.py || true
+
+      - name: Commit e publicar
+        run: |
+          git config --global user.name "NewsBot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "📰 Atualização automática do blog" || exit 0
+          git pull --rebase
+          git push
