@@ -38,4 +38,4 @@ html = f"""
 </html>
 """
 
-open("site/index.html", "w").write(html)
+open("index.html", "w").write(html)
