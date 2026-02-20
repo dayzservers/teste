@@ -20,21 +20,26 @@ html = f"""
   <meta charset="UTF-8">
   <title>Notícias em Destaque</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Resumo automático das principais notícias da BBC Brasil">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>📰 Notícias em Destaque</h1>
-    <p>Resumo automático das principais notícias da BBC Brasil</p>
+
+  <header class="hero">
+      <div class="hero-content">
+          <h1>📰 Notícias em Destaque</h1>
+          <p>Resumo automático das principais notícias da BBC Brasil</p>
+      </div>
   </header>
 
-  <main>
-    {cards}
+  <main class="container">
+      {cards}
   </main>
 
   <footer>
-    <p>Fonte: BBC Brasil • Conteúdo resumido automaticamente</p>
+      <p>Fonte: BBC Brasil • Conteúdo resumido automaticamente</p>
   </footer>
+
 </body>
 </html>
 """
