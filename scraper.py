@@ -58,7 +58,7 @@ for a in soup.select("a[href]"):
 
     state["links"].append(url)
 
-    if len(articles) >= 5:
+    if len(articles) >= 15:
         break
 
 json.dump(state, open(STATE_FILE, "w"), indent=2, ensure_ascii=False)
