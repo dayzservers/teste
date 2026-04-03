@@ -1,9 +1,21 @@
 [
   {
+    "title": "Por que guerra no Irã fez ações da Petrobras baterem recorde – e como isso impacta a empresa e o Brasil",
+    "summary": "Crédito, Fernando Frazão/Agência Brasil A recente valorização das ações preferenciais PETR4 da Petrobras (títulos que oferecem prioridade aos acionistas no recebimento de dividendos e compensações, geralmente não dão direito a voto e servem de referência para avaliação do valor de mercado da companhia) na Bolsa de Valores (B3) reflete a alta da principal commodity da estatal: o petróleo. Em razão da guerra dos Estados Unidos e de Israel contra o Irã, o setor petrolífero mundial, no qual a companhia brasileira está inserida, vive uma enorme disparada de preços,",
+    "url": "https://www.bbc.com/portuguese/articles/cre1npr4l2ro",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/a423/live/b1a12fb0-2f3c-11f1-a79a-77e93010d956.jpg"
+  },
+  {
     "title": "O plano que o PT prepara contra Flávio Bolsonaro após crescimento nas pesquisas",
     "summary": "Crédito, Isaac Fontana/ EPA/Shutterstock O PT usará, nas próximas semanas, seu tempo de inserção de propaganda partidária no rádio e na TV para atacar seu principal rival até o momento, o senador e pré-candidato à Presidência Flávio Bolsonaro (PL-RJ). A expectativa da base é que a campanha de Luiz Inácio Lula da Silva comece a apresentar resposta aos ataques que vem recebendo de Flávio Bolsonaro a partir deste mês de abril.",
     "url": "https://www.bbc.com/portuguese/articles/cjr9nv7dx3yo",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/dfaf/live/af302170-2e04-11f1-9f56-13b823cd6c6e.jpg"
+  },
+  {
+    "title": "As doenças antes incuráveis que estão ganhando tratamentos graças à IA",
+    "summary": "Crédito, Getty Images Há cerca de um século, a humanidade vem perdendo lentamente a batalha contra as bactérias. Nossas armas mais poderosas nesta luta são os antibióticos. Mas a resistência vem se espalhando, fazendo com que eles se tornem cada vez menos eficazes.",
+    "url": "https://www.bbc.com/portuguese/articles/cz0e7m77en1o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/5a6e/live/a8cd4f10-2396-11f1-934f-036468834728.jpg"
   },
   {
     "title": "Astronautas ligam motores e deixam órbita da Terra rumo à Lua: o que aconteceu na missão Artemis 2 até agora",
@@ -24,22 +36,28 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/cb3b/live/96501d20-2ebf-11f1-b297-95b0a0a8331e.jpg"
   },
   {
+    "title": "Como bacalhau virou prato típico da Sexta-Feira Santa",
+    "summary": "Crédito, Getty Images Em seus quase 40 anos de sacerdócio, não foram poucas as vezes em que o padre Eugênio Ferreira de Lima questionou o costume, tradicional em muitas famílias católicas brasileiras, de não comer carne vermelha na quaresma — alguns, apenas na Semana Santa; outros, exclusivamente na Sexta-Feira Santa, dia em que o protagonista à mesa costuma ser o bacalhau. \"Sobretudo porque bacalhau é mais caro do que certas carnes\", disse Lima, em troca de mensagens com a reportagem da BBC News Brasil.",
+    "url": "https://www.bbc.com/portuguese/articles/c2qzdqe4ykro",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/8761/live/43263f00-2cec-11f1-a79a-77e93010d956.jpg"
+  },
+  {
+    "title": "Páscoa: as razões políticas por trás da condenação de Jesus à cruz",
+    "summary": "Crédito, Domínio Público A condenação à morte na Roma Antiga era, de maneira geral, também uma condenação ao esquecimento — algo desafiado firmemente pela memória de Jesus Cristo, quase 2 mil anos após sua execução. \"Entre os romanos, havia três mortes semelhantes [para os condenados à pena capital]. O indivíduo podia ser queimado, amarrado a um poste; o indivíduo podia ser colocado em uma arena para lutar contra animais selvagens até a morte e o indivíduo podia ser crucificado, como ocorreu com Jesus\", explica o historiador André Leonardo Chevitarese, autor de Jesus de Nazaré: Uma Outra História e professor do Programa de Pós-Graduação em História Comparada do Instituto de História da Universidade Federal do Rio de Janeiro (UFRJ).",
+    "url": "https://www.bbc.com/portuguese/articles/czx9enn0lgwo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/ca17/live/81b18fc0-2e8d-11f1-934f-036468834728.jpg"
+  },
+  {
+    "title": "A história por trás da tradição de comer ovos de chocolate na Páscoa",
+    "summary": "Crédito, Getty Images Muitas tradições da Páscoa — como os pães doces e o almoço de domingo — vêm do cristianismo da era medieval ou até das crenças pagãs mais antigas. Mas o ovo de chocolate é uma reviravolta mais recente. Ovos de galinha são consumidos na Páscoa há séculos. Há muito tempo, os ovos simbolizam o renascimento e a renovação, o que os torna perfeitos para comemorar a história da ressurreição de Jesus, que coincide com a chegada da primavera no hemisfério norte.",
+    "url": "https://www.bbc.com/portuguese/articles/c0vz5j5v3rro",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0349/live/3757e580-2ceb-11f1-a79a-77e93010d956.jpg"
+  },
+  {
     "title": "As questões que Trump não respondeu sobre a guerra do Irã em discurso sobre o conflito",
     "summary": "Crédito, Reuters O discurso do presidente dos Estados Unidos, Donald Trump, feito da Casa Branca na noite de quarta-feira (1º/4) foi, apesar de prévia especulação, em grande parte uma repetição do que ele vem dizendo há dias sobre a guerra no Irã. Em um pronunciamento de 20 minutos em horário nobre, ele afirmou que os \"objetivos estratégicos centrais\" da operação militar dos EUA e de Israel estão \"próximos de serem concluídos\" após um mês de guerra e projetou que o conflito deve durar entre mais duas e três semanas.",
     "url": "https://www.bbc.com/portuguese/articles/cew70280jy9o",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/a16e/live/1fb45ff0-2e42-11f1-b297-95b0a0a8331e.jpg"
-  },
-  {
-    "title": "'Não temos dinheiro nem para comida básica': iranianos relatam desespero crescente após um mês de guerra",
-    "summary": "Crédito, EPA Aviso: este artigo contém detalhes que alguns leitores podem considerar perturbadores. Até aquele momento, a guerra era algo que acontecia em outras partes de Teerã, a capital do Irã.",
-    "url": "https://www.bbc.com/portuguese/articles/cg735jj47mpo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/505d/live/74f65ce0-2e9a-11f1-934f-036468834728.jpg"
-  },
-  {
-    "title": "Quem são os 4 astronautas que viajam rumo à Lua na Artemis 2 — e o que estão levando com eles no foguete",
-    "summary": "Crédito, NASA Quatro astronautas se tornaram a tripulação mais observada desde a era Apollo. Eles serão os primeiros, em mais de 50 anos, a orbitar a Lua, abrindo caminho para a próxima geração de missões espaciais.",
-    "url": "https://www.bbc.com/portuguese/articles/c80mpvl4232o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg"
   },
   {
     "title": "Um ano depois, como o tarifaço de Trump mudou a economia global",
@@ -48,27 +66,9 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/1c74/live/5096bbb0-2d2d-11f1-a36a-2bc3523bb833.jpg"
   },
   {
-    "title": "Como bacalhau virou prato típico da Sexta-Feira Santa",
-    "summary": "Crédito, Getty Images Em seus quase 40 anos de sacerdócio, não foram poucas as vezes em que o padre Eugênio Ferreira de Lima questionou o costume, tradicional em muitas famílias católicas brasileiras, de não comer carne vermelha na quaresma — alguns, apenas na Semana Santa; outros, exclusivamente na Sexta-Feira Santa, dia em que o protagonista à mesa costuma ser o bacalhau. \"Sobretudo porque bacalhau é mais caro do que certas carnes\", disse Lima, em troca de mensagens com a reportagem da BBC News Brasil.",
-    "url": "https://www.bbc.com/portuguese/articles/c2qzdqe4ykro",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/8761/live/43263f00-2cec-11f1-a79a-77e93010d956.jpg"
-  },
-  {
-    "title": "Vale a pena antecipar a compra de passagens aéreas por causa do aumento dos combustíveis?",
-    "summary": "Crédito, Getty Images A guerra no Irã segue espalhando seus efeitos pelo mundo e nesta semana o impacto no Brasil foi sentido com força no setor aéreo. Na quarta-feira (1/4), a Petrobras anunciou um aumento de 54,6% no preço do querosene de aviação (QAV). No acumulado desde o início da guerra, em fevereiro, a alta é de 64%. Segundo a Petrobras, haverá apenas 18% de reajuste em abril. O restante será parcelado em seis meses, com a primeira parcela prevista para julho. A medida vem para assegurar o \"bom funcionamento do mercado\", segundo a companhia.",
-    "url": "https://www.bbc.com/portuguese/articles/c2k310k4gdqo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bb50/live/ddbc06c0-2e73-11f1-be87-e9586b88cb42.jpg"
-  },
-  {
-    "title": "Como a nova missão da Nasa à Lua pode beneficiar Trump",
-    "summary": "Crédito, Getty Images A primeira viagem ao espaço profundo – muito além da órbita da Terra – desde 1972 ocorre em um momento crucial da Presidência do americano Donald Trump. Os Estados Unidos estão profundamente divididos em temas que vão dos ataques americanos em curso no Irã à imigração e economia.",
-    "url": "https://www.bbc.com/portuguese/articles/cn53yl2wrkgo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/6c10/live/f06bc510-2df8-11f1-934f-036468834728.jpg"
-  },
-  {
-    "title": "O que Jesus comeu na Santa Ceia? As pistas sobre como eram os alimentos da Páscoa",
-    "summary": "Crédito, Domínio Público De acordo com os relatos bíblicos, Jesus sabia que seria morto quando celebrou a Páscoa com seus seguidores. \"Bem sabeis que daqui a dois dias é a Páscoa; e o filho do homem será entregue para ser crucificado\", diz o Evangelho de Mateus.",
-    "url": "https://www.bbc.com/portuguese/articles/c4g46zzyneko",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0c82/live/a53ecd60-2ce7-11f1-a79a-77e93010d956.jpg"
+    "title": "'Não temos dinheiro nem para comida básica': iranianos relatam desespero crescente após um mês de guerra",
+    "summary": "Crédito, EPA Aviso: este artigo contém detalhes que alguns leitores podem considerar perturbadores. Até aquele momento, a guerra era algo que acontecia em outras partes de Teerã, a capital do Irã.",
+    "url": "https://www.bbc.com/portuguese/articles/cg735jj47mpo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/505d/live/74f65ce0-2e9a-11f1-934f-036468834728.jpg"
   }
 ]
