@@ -1,5 +1,41 @@
 [
   {
+    "title": "Brasileiro trabalha pouco? O que é produtividade e por que ela se tornou central no debate sobre escala 6x1",
+    "summary": "Crédito, Tomaz Silva/Agência Brasil Quando economistas e empresários falam sobre o possível fim da escala 6x1 — aquela em que o funcionário trabalha seis dias na semana e tem apenas um dia de descanso — uma palavra surge com frequência: produtividade. \"A gente tem que ser verdadeiro: aumenta o custo, sim; gera desemprego por causa desse aumento; o país perde produtividade\", afirmou Paulo Skaf, presidente da Federação das Indústrias do Estado de São Paulo (Fiesp), em entrevista à GloboNews em 11 de março.",
+    "url": "https://www.bbc.com/portuguese/articles/c14m4l08z3po",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/f0ae/live/3077b550-2247-11f1-9b13-8f9ee895ecd6.jpg"
+  },
+  {
+    "title": "EUA dizem que bloqueio naval ao estreito de Ormuz começará em poucas horas e preço do petróleo dispara novamente",
+    "summary": "Crédito, REUTERS/Kevin Lamarque As Forças Armadas dos EUA afirmaram que farão um bloqueio aos portos iranianos a partir das 11h desta segunda-feira (13/4), no horário de Brasília. Os mercados reagiram com nervosismo aos novos acontecimentos do conflito no Oriente Médio. O preço do petróleo voltou a subir com força nesta segunda-feira, com o barril do tipo Brent ultrapassando os US$ 100 — alta de mais de 7% — refletindo temores sobre o impacto do bloqueio no fornecimento global de energia.",
+    "url": "https://www.bbc.com/portuguese/articles/czjw13wdz4po",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e8e0/live/56d37470-3717-11f1-a6bd-75d9eff58887.jpg"
+  },
+  {
+    "title": "As ligações da família Bolsonaro com Viktor Orbán, que perdeu eleição na Hungria após 16 anos",
+    "summary": "Crédito,  Marcos Corrêa/PR Viktor Orbán, atual primeiro-ministro da Hungria, reconheceu a derrota nas eleições parlamentares do seu país neste domingo (12/4), após 16 anos no poder. O líder de direita radical recebeu o apoio do presidente dos Estados Unidos, Donald Trump, e é visto como um aliado do líder russo Vladimir Putin. Ele também tem vínculos com o ex-presidente Jair Bolsonaro e sua família.",
+    "url": "https://www.bbc.com/portuguese/articles/c5y94vx22ppo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/77e0/live/15425400-eb55-11ee-860f-4b0b053e4cd0.jpg"
+  },
+  {
+    "title": "'Meu avô abusou sexualmente de dezenas de crianças e mulheres — isso foi o que aprendi após confrontá-lo com uma câmera'",
+    "summary": "Crédito, Chet Tilokani Aos 23 anos, a americana Amanda Mustard embarcou em uma viagem que mudaria a sua vida para sempre. Uma viagem pelas profundezas mais sombrias de uma história familiar para descobrir quem realmente era o seu avô, William Flickinger, um quiropraxista (profissional que trata dores na coluna e articulações através de ajustes manuais) que abusou sexualmente de inúmeras crianças e mulheres, dentro e fora de sua família.",
+    "url": "https://www.bbc.com/portuguese/articles/cn78k4v387vo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/506b/live/9568dd50-004f-11f1-abe8-1fdb6eeb3fcb.jpg"
+  },
+  {
+    "title": "Eleições no Peru: direitistas Keiko Fujimori e Rafael López Aliaga saem na frente em disputa acirrada por lugar em 2º turno",
+    "summary": "Crédito, AFP via Getty Images Os peruanos foram às urnas no domingo (12/04) para escolher entre um número recorde de 35 candidatos à Presidência e, como já se previa, as tendências indicam que nenhum alcançou os 50% dos votos necessários para vencer no primeiro turno. Com 40% dos votos apurados, a candidata de direita Keiko Fujimori lidera a contagem com 17% do total, seguida de perto pelo ultraconservador Rafael López Aliaga, com 16%. Em terceiro lugar aparece o centrista Jorge Nieto, com 13%.",
+    "url": "https://www.bbc.com/portuguese/articles/c2d81zk0yr6o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bb5d/live/24599e60-36f0-11f1-8606-05fe34b06e1b.jpg"
+  },
+  {
+    "title": "O que é um bloqueio naval e como ele funcionaria no estreito de Ormuz?",
+    "summary": "Crédito, AFP via Getty Images As forças militares dos Estados Unidos afirmaram que começarão nesta segunda-feira (13/04) a implementar o bloqueio de todo o tráfego marítimo chegando e saindo de portos do Irã. Por outro lado, os militares americanos anunciaram que embarcações chegando ou saindo de qualquer outra localidade serão autorizadas a passar pelo estreito de Ormuz, uma via marítima crucial que foi fechada pelo Irã em resposta aos ataques feitos pelos EUA e por Israel. Antes do conflito, passavam por ali cerca de 20% do petróleo produzido no mundo, entre outros insumos.",
+    "url": "https://www.bbc.com/portuguese/articles/c4gd043g54jo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/c1bb/live/05ad5410-368d-11f1-8c7c-3d26c824719f.jpg"
+  },
+  {
     "title": "'Irmão' de Bolsonaro e inspiração para a direita radical, Orbán perde eleição após 16 anos na Hungria",
     "summary": "Crédito, REUTERS/Bernadett Szabo TPX Após 16 anos seguidos no poder, o primeiro-ministro da Hungria, Viktor Orbán, reconheceu a derrota para Peter Magyar nas eleições neste domingo (12/4). Em um discurso aos apoiadores, Orbán disse: \"O resultado da eleição é claro e doloroso\".",
     "url": "https://www.bbc.com/portuguese/articles/c203lkz2l0qo",
@@ -10,12 +46,6 @@
     "summary": "Crédito, REUTERS/Marton Monus \"Agora ou nunca\", vinha dizendo Péter Magyar aos húngaros durante sua incansável campanha pelo país rumo às eleições deste domingo (12/4). E ele conseguiu. Era noite em Budapeste quando o primeiro-ministro da Hungria, Viktor Orbán, reconheceu a derrota para Magyar, a primeira desde sua primeira vitória em quatro eleições consecutivas, em 2010.",
     "url": "https://www.bbc.com/portuguese/articles/c0e7r102exxo",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/de0b/live/7d50bde0-36b5-11f1-879d-1b2f5c3919b8.jpg"
-  },
-  {
-    "title": "Após acordo de paz fracassar, Forças Armadas dos EUA dizem que vão bloquear acesso aos portos do Irã",
-    "summary": "Crédito, REUTERS/Kevin Lamarque As Forças Armadas dos EUA afirmaram neste domingo (12/4) que farão um bloqueio aos portos iranianos a partir das 11h desta segunda-feira (13/4), no horário de Brasília. A decisão ocorre após negociações de paz entre Irã e EUA fracassarem no fim de semana.",
-    "url": "https://www.bbc.com/portuguese/articles/czjw13wdz4po",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e32c/live/888e2b60-369d-11f1-9d5c-8ba507d7dbde.jpg"
   },
   {
     "title": "O que acontece agora que as negociações de paz entre Irã e EUA não chegaram a um acordo?",
@@ -30,12 +60,6 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/6516/live/54473090-32bf-11f1-a79a-77e93010d956.jpg"
   },
   {
-    "title": "O cofre nos EUA que guarda toneladas de barras de ouro de vários países – e por que europeus querem tirá-las de lá",
-    "summary": "Crédito, Fotos: New York Fed / Montaje: Caroline Souza A 25 metros abaixo do solo, na Liberty Street, em Nova York, o Federal Reserve dos Estados Unidos (Fed) guarda no subsolo de sua sede mais de meio milhão de barras de ouro pertencentes a bancos centrais, governos e instituições de todo o mundo. Essa câmara-forte é protegida por um cilindro de aço de 90 toneladas e, uma vez fechada, sua gigantesca fechadura só pode ser aberta no dia seguinte.",
-    "url": "https://www.bbc.com/portuguese/articles/c75kzyg697go",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/81bc/live/4b1e6ec0-231f-11f1-a79a-77e93010d956.jpg"
-  },
-  {
     "title": "Os vídeos virais de IA da guerra do Irã no estilo lego – divertimento ou propaganda?",
     "summary": "Crédito, Explosive Media À primeira vista, parecem cenas que poderiam ter saído de um filme de Lego, embora mais vívidas e aceleradas. Mas esses vídeos virais gerados por IA, inspirados na estética Lego instantaneamente reconhecível, apresentam crianças morrendo, caças e o presidente dos EUA, Donald Trump — e são, na verdade, propaganda pró-Irã.",
     "url": "https://www.bbc.com/portuguese/articles/c5ywg3x1865o",
@@ -46,29 +70,5 @@
     "summary": "Crédito, William Abranowicz Quando George W. Vanderbilt (1862-1914) convidou familiares e amigos para conhecer sua casa recém-construída, na noite de Natal de 1895, eles chegaram em vagões de trem particulares, por uma ferrovia construída especialmente para levar à sua propriedade nas montanhas de Asheville, no Estado americano da Carolina do Norte. O projeto da mansão com 250 quartos foi inspirado nos centenários castelos franceses do vale do Loire. A escolha é evidente nas suas torres e pináculos.",
     "url": "https://www.bbc.com/portuguese/articles/cn53ykxqreeo",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/cfc4/live/032b88b0-0e60-11f1-9120-a910fc22c6ac.jpg"
-  },
-  {
-    "title": "A 'estranha' estrutura da Rolex: a empresa de luxo que não pertence a nenhum bilionário",
-    "summary": "Crédito, Getty Images Quando Shakira quis expressar em uma canção sua dor por uma traição amorosa, recorreu a uma comparação que não precisava de explicação: \"Você trocou um Rolex por um Casio\". A segunda marca talvez pudesse ter sido outra, mas a primeira só poderia ser essa: bastava invocá‑la para que sua audiência global a entendesse imediatamente como sinônimo da coisa mais valiosa que alguém pode possuir… E perder.",
-    "url": "https://www.bbc.com/portuguese/articles/cwyj8jeg1j4o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/d1c5/live/5df08350-2c82-11f1-a3bf-b52d013f1288.jpg"
-  },
-  {
-    "title": "Eleições no Peru: como crises políticas levaram país a ter uma 'economia zumbi'",
-    "summary": "Crédito, Ernesto Benavides via Getty Images O Peru, país que vai escolher seu novo presidente em eleições neste domingo (12/4), foi um exemplo de gestão macroeconômica por anos. Apesar da permanente instabilidade política e das constantes mudanças de presidente nos últimos anos, o país conseguiu manter suas contas públicas saneadas, atrair investimentos estrangeiros significativos, continuar crescendo e manter o valor da sua moeda.",
-    "url": "https://www.bbc.com/portuguese/articles/czd7gm41g4vo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4382/live/c569f420-341c-11f1-aa50-fd39c44a0779.jpg"
-  },
-  {
-    "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?",
-    "summary": "Crédito, Getty Images \"Apareceu no feed das minhas redes sociais e fiquei simplesmente vendo um vídeo após o outro... até que pensei, por que não tentar?\", diz a jovem Maryam Khan, de 21 anos. Não se trata de nenhum penoso cronograma de exercícios, nem de um elixir caro para tratamento da pele. A tendência que Khan e muitas outras pessoas estão seguindo é simplesmente beber água quente pela manhã.",
-    "url": "https://www.bbc.com/portuguese/articles/clyxlele524o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/5baf/live/07d62670-1ef2-11f1-8cb7-433d6fa8d367.png"
-  },
-  {
-    "title": "Os alertas de especialistas antes de começar a usar canetas emagrecedoras",
-    "summary": "Crédito, Getty Images Sarah Le Brocq tem experiência pessoal com os efeitos transformadores dos medicamentos para perda de peso. Ela teve obesidade durante a maior parte da sua vida adulta e experimentou inúmeras dietas. \"Eu pensava: 'Vou testar qualquer coisa que saia, pois pode funcionar para mim'.\" Mas, infelizmente, ela sempre recuperava o peso perdido, segundo contou ao programa Inside Health, da BBC Rádio 4.",
-    "url": "https://www.bbc.com/portuguese/articles/c78rzpxd0npo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/5172/live/d8229610-3333-11f1-bf11-9546df991775.jpg"
   }
 ]
