@@ -1,9 +1,27 @@
 [
   {
+    "title": "Os inquietantes paralelos entre 2008 e 2026: uma nova crise financeira está a caminho?",
+    "summary": "Crédito, Getty Images Em 15 de setembro de 2008, Bobby Seagull chegou ao seu escritório em Canary Wharf, em Londres, pouco antes das 6 da manhã. Era a última vez que ele precisaria ser pontual. Ele era um operador do Lehman Brothers, um banco americano que passava por sérias turbulências.",
+    "url": "https://www.bbc.com/portuguese/articles/c809ezp5nv3o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/d0b7/live/ed972740-43af-11f1-9d89-8526d1435c1c.jpg"
+  },
+  {
     "title": "'Me disseram que ele estava morto': filhos abandonados por soldados britânicos no Quênia descobrem a verdade",
     "summary": "\"Edward\", um menino queniano de nove anos, sempre soube que o seu pai trabalhava para as Forças Armadas britânicas. A cor de pele do garoto, mais clara do que a de seus colegas, provocou anos de bullying. Seu pai desapareceu antes de Edward (nome fictício) nascer, deixando sua mãe em situação de extrema pobreza, além de ser alvo de ostracismo por parte de familiares. Agora seu pai, que trabalhou como prestador de serviços em uma base do Exército britânico no Quênia, e outros 19 que serviram ali como soldados foram identificados, por meio de um processo inovador envolvendo testes de DNA e decisões judiciais, como pais de crianças nascidas perto da base. Em 12 casos, a paternidade já foi reconhecida judicialmente pela mais alta instância da Corte de Família do Reino Unido, segundo investigação do Serviço Mundial da BBC.",
     "url": "https://www.bbc.com/portuguese/articles/cvg07zlw9q3o",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0531/live/efbee7f0-38e8-11f1-8606-05fe34b06e1b.jpg"
+  },
+  {
+    "title": "'Um dos lugares mais inóspitos da Terra': a 'utopia' verde dos anos 1960 que tentou reinventar o mundo",
+    "summary": "Crédito, Gaviotas Em meio às vastas, remotas e pouco povoadas planícies do leste da Colômbia, conhecidas como Los Llanos, a cerca de um dia de viagem da capital Bogotá, uma área de 80 km² de floresta exuberante criada pelo homem floresce. Ali, há mais de meio século, uma pequena comunidade autossustentável chamada Gaviotas vem desafiando todas as probabilidades, prosperando em um terreno inóspito com a ajuda de uma série de invenções peculiares e futuristas. As tecnologias pioneiras vão de aquecedores solares de água de baixo custo a uma gangorra infantil que também funciona como bomba d'água, passando pelo cultivo de florestas comestíveis e biocombustíveis. Algumas foram inspiradas em métodos tradicionais usados por comunidades indígenas locais, enquanto outras surgiram de experimentações engenhosas e incansáveis com os poucos recursos disponíveis.",
+    "url": "https://www.bbc.com/portuguese/articles/cm2p4eejdnjo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/acba/live/a39da660-37f1-11f1-9d5c-8ba507d7dbde.jpg"
+  },
+  {
+    "title": "Por que tantas mulheres africanas clareiam a pele?",
+    "summary": "Crédito, AFP via Getty Images Em certos países africanos, mais de 50% das mulheres usam regularmente produtos de clareamento da pele. Na África do Sul, este índice é de 32% e, na Nigéria, chega a 77% — um número muito maior do que em outras regiões do planeta.",
+    "url": "https://www.bbc.com/portuguese/articles/clyp5nexyj0o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/55c5/live/72d83510-4415-11f1-9fe7-21f79f0ffc75.jpg"
   },
   {
     "title": "Como a roupa da filha de Kim Jong Un mostra que ela está sendo preparada para virar líder da Coreia do Norte",
@@ -42,18 +60,6 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/760c/live/99723210-2887-11f1-b21f-b3f6be36815d.png"
   },
   {
-    "title": "As mudanças climáticas vão nos encolher?",
-    "summary": "Crédito, Getty Images Ao longo dos últimos 150 anos, os seres humanos vivenciaram um notável impulso do seu crescimento enquanto espécie. Mas existem sinais de que este fenômeno pode estar chegando ao fim. E uma das possíveis razões parecem ser as mudanças climáticas.",
-    "url": "https://www.bbc.com/portuguese/articles/c5y7djlq569o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4f09/live/590df6c0-432e-11f1-81d9-750a5d1cf4c4.jpg"
-  },
-  {
-    "title": "'Somos milagres': as gêmeas que nasceram com minutos de diferença mas são filhas de homens diferentes",
-    "summary": "As gêmeas Michelle e Lavinia Osbourne sempre compartilharam uma conexão especial. Mas quando Lavinia clicou em um e-mail com os resultados de um teste de DNA caseiro em setembro de 2022, ela foi tomada por uma sensação de pavor. \"Talvez eu já soubesse inconscientemente\", diz ela.",
-    "url": "https://www.bbc.com/portuguese/articles/crrp9y2enypo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/83e8/live/ee2cd010-453a-11f1-a613-4794dd5170f2.jpg"
-  },
-  {
     "title": "Como são as 'prisões para obesos' da China: pesagem duas vezes por dia, exercícios intensos e lanches proibidos",
     "summary": "Crédito, TL Huang Circulam nas redes sociais vídeos que mostram pessoas fazendo exercícios em um grande ginásio, formando fila para a refeição e dormindo em dormitórios com diversas camas. Este novo centro de emagrecimento não é um spa luxuoso, mas, sim, um acampamento militar para perder peso na China.",
     "url": "https://www.bbc.com/portuguese/articles/c0m2027mdmjo",
@@ -64,11 +70,5 @@
     "summary": "Crédito, Getty Images O Departamento de Defesa dos Estados Unidos planeja retirar 5 mil soldados americanos da Alemanha, em meio a uma disputa entre o presidente Donald Trump e o chanceler alemão Friedrich Merz sobre a guerra no Irã. A decisão ocorre um dia depois de Trump criticar Merz.",
     "url": "https://www.bbc.com/portuguese/articles/c302pr2r95go",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/9794/live/527f9bf0-45c3-11f1-b55d-0f258dce1735.jpg"
-  },
-  {
-    "title": "Por que o sal tem um efeito tão poderoso em nosso cérebro?",
-    "summary": "Crédito, Getty Images Como você vai entender ao longo dessa reportagem, a resposta para essa pergunta tem a ver com dois fatores: primeiro, com o paladar, já que o sal altera e realça o sabor da comida. Segundo, com uma necessidade básica de manter o equilíbrio do nosso organismo, já que o sódio é fundamental para o funcionamento das células. Mas por que gostamos tanto de sal? E como ele deixa a nossa comida tão saborosa?",
-    "url": "https://www.bbc.com/portuguese/articles/c3w2q0v49dxo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/67a4/live/c320a710-43d8-11f1-a133-a9dbeae5d5f3.jpg"
   }
 ]
