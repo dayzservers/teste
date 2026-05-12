@@ -1,5 +1,11 @@
 [
   {
+    "title": "Hantavírus mata quase metade dos infectados no Brasil: onde há mais risco (e por que não tem a ver com surto em cruzeiro)",
+    "summary": "Crédito, Rudson Amorim/ IOC - Fiocruz Os casos de hantavírus em um navio de cruzeiro que saiu da Argentina rumo à África provocou temor em vários países, já que passageiros de mais de 20 nacionalidades estavam a bordo e começaram a ser repatriados - não há registro de brasileiros entre eles. O episódio reacendeu dúvidas sobre uma doença até então pouco falada, mas que está presente no Brasil há mais de três décadas. Apesar de rara, a hantavirose preocupa por sua alta taxa de letalidade e pela rapidez com que pode evoluir para quadros graves.",
+    "url": "https://www.bbc.com/portuguese/articles/clyp28w80xlo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bffd/live/ad10eec0-4d70-11f1-8dfc-834fa8ba00b4.jpg"
+  },
+  {
     "title": "Por que cada vez mais brasileiros estão deixando Portugal e recomeçando na Espanha",
     "summary": "Crédito, Arquivo pessoal O brasileiro Paulo Geronimo espera ser um dos beneficiados pelo processo de regularização extraordinária iniciado em abril, que pretende legalizar a situação de milhares de imigrantes que já vivem na Espanha. Após sete anos em Portugal, ele se mudou para o país vizinho com a família em 2025. \"Até já tínhamos conseguido regularizar nossa situação em Portugal, mas, nos últimos anos, começamos a sentir um aumento da hostilidade contra brasileiros, com frases como 'volta para a tua terra'. Também fomos atraídos por salários mais altos. E tivemos sorte de nos mudar antes do processo de regularização — o que nos permite ser beneficiados\", conta Paulo. Com anos de experiência como motorista de caminhão em Portugal, ele já conseguiu a promessa de um contrato de trabalho na Espanha e está desenvolvendo um app para conectar motoristas e empresas espanholas.",
     "url": "https://www.bbc.com/portuguese/articles/clyp7k85l1po",
@@ -7,9 +13,27 @@
   },
   {
     "title": "O fenômeno Carla Madeira, que domina as redes e divide leitores com seus livros: 'Literatura não é manual'",
-    "summary": "Crédito, Divulgação/Agência Riff As primeiras páginas que deram origem a Tudo é Rio, o romance mais popular de Carla Madeira, foram escritas 14 anos antes de sua publicação. Depois de criar uma cena especialmente violenta, o processo da autora entrou em hiato. Mais de uma década depois, no entanto, o livro foi concluído em apenas oito meses — \"jorrando, em processo de transbordamento\", como ela descreve em entrevista à BBC News Brasil.",
+    "summary": "Crédito, Marcia Charnizon As primeiras páginas que deram origem a Tudo é Rio, o romance mais popular de Carla Madeira, foram escritas 14 anos antes de sua publicação. Depois de criar uma cena especialmente violenta, o processo da autora entrou em hiato. Mais de uma década depois, no entanto, o livro foi concluído em apenas oito meses — \"jorrando, em processo de transbordamento\", como ela descreve em entrevista à BBC News Brasil.",
     "url": "https://www.bbc.com/portuguese/articles/cx21le0k8wdo",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/ddee/live/52e501a0-49ee-11f1-9921-0be54b6c608a.jpg"
+  },
+  {
+    "title": "PGR pede condenação de Eduardo Bolsonaro por coação; o que se sabe",
+    "summary": "Crédito, REUTERS/Jessica Koscielniak A Procuradoria-Geral da República (PGR) pediu nesta segunda-feira (11/5) a condenação do ex-deputado federal Eduardo Bolsonaro (PL-SP) por coação no curso de processo, por ter articulado sanções contra o país e autoridades brasileiras, numa tentativa de influenciar o resultado do julgamento de Jair Bolsonaro (PL) por golpe de Estado. A manifestação faz parte das alegações finais da PGR na ação que tramita atualmente no Supremo Tribunal Federal (STF) na qual Eduardo é réu.",
+    "url": "https://www.bbc.com/portuguese/articles/c86dgjd7p1zo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/8c87/live/2c621730-4da3-11f1-bd52-e755d604ece4.jpg"
+  },
+  {
+    "title": "A crise que coloca em risco o cargo do primeiro-ministro britânico",
+    "summary": "Crédito, PA Media O primeiro-ministro do Reino Unido, Keir Starmer, está tentando manter seu cargo após os resultados desastrosos do Partido Trabalhista nas últimas eleições locais do país. Até a noite desta segunda-feira (11/5), 71 dos 403 parlamentares trabalhistas pediram publicamente que Starmer renuncie imediatamente ou apresente um prazo para deixar o comando do governo.",
+    "url": "https://www.bbc.com/portuguese/articles/c172wqek0zgo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/df9d/live/5e5eaa60-4d2f-11f1-b55d-0f258dce1735.jpg"
+  },
+  {
+    "title": "Turista ganha indenização após perder 'corrida por espreguiçadeiras' em hotel na Grécia",
+    "summary": "Crédito, Getty Images Um turista alemão ganhou uma indenização de mais de 900 euros (cerca de R$ 5,1 mil) depois de não conseguir garantir uma espreguiçadeira devido a outros hóspedes que as reservavam com toalhas. O homem, que não teve a identidade divulgada, estava de férias na Grécia com a família em 2024 e disse que passava 20 minutos por dia tentando encontrar uma espreguiçadeira, apesar de acordar às 06:00.",
+    "url": "https://www.bbc.com/portuguese/articles/c1l2jn7q35go",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/9420/live/1be43240-4ad7-11f1-941e-d3689d7c57f6.jpg"
   },
   {
     "title": "Como suspensão da Ypê pela Anvisa virou tema de disputa política nas redes",
@@ -36,24 +60,6 @@
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/9cdc/live/66ed2b40-4af8-11f1-9c75-d37955007435.jpg"
   },
   {
-    "title": "Encontrando 'espermatozoides ocultos': a técnica de IA que tem dado esperança a homens antes considerados inférteis",
-    "summary": "Crédito, Columbia University Fertility Center Era início de novembro de 2025 quando Penelope recebeu uma ligação enquanto dirigia para casa do trabalho em Nova Jersey, nos Estados Unidos. Era seu médico, ligando com a notícia que ela tanto esperava. Após dois anos e meio de tentativas angustiantes, Penelope finalmente estava grávida. Após muitos exames, ela e o marido, Samuel, descobriram que ele tinha síndrome de Klinefelter, uma condição genética que afeta homens que nascem com um cromossomo X extra, muitas vezes diagnosticada apenas na idade adulta.",
-    "url": "https://www.bbc.com/portuguese/articles/crmpk1z0reyo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0be3/live/cf651bb0-494f-11f1-bd44-e578c5bd51ff.jpg"
-  },
-  {
-    "title": "Como a Ucrânia conseguiu usar a seu favor o tremendo impacto da guerra no Irã",
-    "summary": "Crédito, AFP via Getty Images A imagem do presidente da Ucrânia, Volodymyr Zelensky, caminhando sobre o tapete lilás na Arábia Saudita em março, com o rosto sério e vestido de preto, marcou um momento importante e inesperado na guerra dos Estados Unidos e Israel contra o Irã. Ele afirmou, em uma postagem no X, que o objetivo da sua visita era \"fortalecer a proteção de vidas\".",
-    "url": "https://www.bbc.com/portuguese/articles/c392123npm2o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e593/live/2f2d8410-4941-11f1-861c-270dbba6d6ae.jpg"
-  },
-  {
-    "title": "As novas pistas sobre a misteriosa energia escura no maior mapa 3D já criado do universo",
-    "summary": "Crédito, Tyas/Berkeley Lab e KPNO/NOIRLab/NSF/AURA Um poderoso instrumento com 5.000 olhos de fibra óptica revelou um mapa do universo que desafia nossas ideias sobre o cosmos. Mais de 47 milhões de galáxias e quasares e 20 milhões de estrelas compõem a imagem sem precedentes obtida pelo Instrumento Espectroscópico de Energia Escura (DESI), instalado no Telescópio Mayall, no Observatório Nacional de Kitt Peak, no Estado americano do Arizona.",
-    "url": "https://www.bbc.com/portuguese/articles/c24296m661lo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e375/live/6ffa17d0-4b1a-11f1-be9e-ad2f8d891a76.jpg"
-  },
-  {
     "title": "Como os Lundgren criaram o império das Pernambucanas e as controvérsias que cercam a família",
     "summary": "Crédito, Memorial Herman Theodor Lundgren Anita Harley, controladora e um dia principal executiva da rede varejista Pernambucanas, pode ter se tornado conhecida de um novo público com a série documental O Testamento, da Globoplay. Mas ela foi por muito tempo a cara da marca, ao menos nas décadas mais recentes dos 118 anos de existência da empresa.",
     "url": "https://www.bbc.com/portuguese/articles/cz0exkevm14o",
@@ -64,11 +70,5 @@
     "summary": "Crédito, Júlia Carneiro O aroma de frango refogado com coentro, cenoura e batata se espalha pela casa. O ensopado depois vai para o liquidificador, virando uma papinha para nutrir tanto a filha bebê quanto a mais velha. Ester Emanuelly, de 1 ano e meio, engole com gosto as colheradas que a mãe lhe dá na boca enquanto quica pelo sofá.",
     "url": "https://www.bbc.com/portuguese/articles/cj4pnwqgzg8o",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0835/live/ff42a270-4b2b-11f1-9073-bd2283b879e6.jpg"
-  },
-  {
-    "title": "Moraes suspende Dosimetria até STF julgar ações contra lei que reduz pena de Bolsonaro e condenados do 8 de Janeiro; o que acontece agora",
-    "summary": "Crédito, Reuters A aplicação da Lei da Dosimetria —  que prevê a redução de penas e do tempo em regime fechado de condenados pelos atos de 8 de janeiro de 2023, entre eles o ex-presidente Jair Bolsonaro (PL) — está suspensa até que o plenário do Supremo Tribunal Federal (STF) decida sobre ações que questionam a regra. A decisão foi tomada no sábado (9/5) pelo ministro do STF Alexandre de Moraes. Ele suspendeu a aplicação da Lei da Dosimetria.",
-    "url": "https://www.bbc.com/portuguese/articles/c3w2xwd19e8o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/fb46/live/11da1190-4bd4-11f1-8b92-b11ec3175073.jpg"
   }
 ]
