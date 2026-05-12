@@ -11,7 +11,7 @@ for a in articles:
         <div class="card-body">
             <h2>{a['title']}</h2>
             <p>{a['summary']}</p>
-            <a href="{a['url']}" target="_blank">Ler na BBC</a>
+            <a href="{a['url']}" target="_blank">Leia Mais...</a>
         </div>
     </article>
     """
